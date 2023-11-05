@@ -56,7 +56,12 @@
 }
 
 
-
+.btn-card-front{
+  border-top-right-radius: .8rem;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
 
 
 
@@ -176,3 +181,14 @@ height: 100%;
   margin: 1rem;
   
 }
+
+
+
+
+
+
+
+
+
+
+/***/

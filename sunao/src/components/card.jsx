@@ -9,7 +9,7 @@ export const Card=(props)=>{
             </div>
             <div className="card-lower d-grid">
                 <div className="info-card">Info</div>
-                <div className="price-card">₡fdsgs</div>
+                <div className="price-card">₡{props.price}</div>
             </div>
         </div>
     )
